@@ -13,6 +13,6 @@ I'm currently studying Computer Science at CSUN and working on some side project
 
 
 ### ✉️ Reach me at 
-Telegram - https://t.me/nverk
+[Linkedin](https://www.linkedin.com/in/nverkhachoyan/)
 
 
