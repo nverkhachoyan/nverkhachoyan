@@ -21,8 +21,8 @@
   <img src='https://github.com/nverkhachoyan/nverkhachoyan/assets/23270085/17a3ab6f-73d2-432c-9e8f-315aeab7bbef' width='25' alt='C'>
   <img src='https://github.com/nverkhachoyan/nverkhachoyan/assets/23270085/e9a6bb60-51bc-495c-a58f-93a3a2c23bd3' width='25' alt='Python'>
   <img src='https://github.com/nverkhachoyan/nverkhachoyan/assets/23270085/532ea593-4fe3-4586-8fa1-5c1659fa8029' width='25' alt='JS'>
-  <img src='https://github.com/nverkhachoyan/nverkhachoyan/assets/23270085/df7537b9-2435-45d2-af5d-eaeb116b19bb' width='25' alt='Java'>
   <img src='https://github.com/user-attachments/assets/fd8d5b35-92eb-4f78-8094-6144a02ac194' width='25' alt='Golang'>
+  <img src='https://github.com/user-attachments/assets/f1e0a31e-0c2d-48bf-b2d3-73d44b201d79' width='25' alt='Rust'>
 </p>
 
 ---
