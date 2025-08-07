@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me
 - 🎓 I'm a Computer Science student at **California State University, Northridge (CSUN)**.
 - 💻 I love exploring **low-level software engineering** and **network systems programming**.
-- 🚀 Currently, I’m working on [AlgoLearn](https://github.com/nverkhachoyan/algolearn), an educational app for learning computer science concepts!
+- 🚀 Currently, I’m working on [Gobsidian](https://github.com/nverkhachoyan/gobsidian), CLI tool that turns your Obsidian notes into a blog!
 - 📚 In my free time, I like learning about **operating systems**, **networks**, and **system design**.
 
 ### 🛠️ Languages and Tools
