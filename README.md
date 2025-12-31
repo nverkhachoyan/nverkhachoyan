@@ -24,12 +24,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nverkhachoyan&show_icons=true&theme=radical" alt="Nver's GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nverkhachoyan&layout=compact&theme=radical" alt="Top Langs" height="160"/>
-</p>
-
 ### 📫 Reach Me At
 <p>
   <a href="https://www.linkedin.com/in/nverkhachoyan/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
