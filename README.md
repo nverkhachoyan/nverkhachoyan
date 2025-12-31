@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Nver Khachoyan 👋</h1>
 <p align="center">
-  <code>Student/Software Engineer</code>
+  <code>Software Engineer</code>
 </p>
 
 <p align="center">
@@ -11,10 +11,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 I'm a Computer Science student at **California State University, Northridge (CSUN)**.
-- 💻 I love exploring **low-level software engineering** and **network systems programming**.
-- 🚀 Currently, I’m working on [Gobsidian](https://github.com/nverkhachoyan/gobsidian), CLI tool that turns your Obsidian notes into a blog!
-- 📚 In my free time, I like learning about **operating systems**, **networks**, and **system design**.
+- 💻 I love learning about **operating systems**, **networks**, and **system design**.
 
 ### 🛠️ Languages and Tools
 <p>
